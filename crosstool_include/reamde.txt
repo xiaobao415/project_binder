@@ -1,0 +1,2 @@
+arm±àÒë
+ÉÏÊöÄ¿Â¼copyµ½buildroot_x4418/output/host/usr/arm-buildroot-linux-gnueabihf/sysroot/usr/inclue/
