@@ -1,0 +1,10 @@
+﻿1.binder                                     binder通信库
+2.cans、socketcan                            Can通信库
+3.cutils、utils                              系统类库
+4.hardware、hardwareproxy、hardwareservice   硬件服务、代理库 		
+5.ipclibs                                    ipc通信库
+6.lights                                     指示灯操作库
+7.log                                        日志库
+8.qjsonrpc                                   jsonrpc库
+9.sensors                                    传感器操作库
+10.toollibs                                  计时器库
